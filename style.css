@@ -46,6 +46,10 @@ body {
   background-image: url("img/icon-phone-header.svg");
 }
 
+.header-telegram_instagram{
+  padding-left: 20px;
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
@@ -191,4 +195,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.footer-telegram_instagram{
+  padding-left: 20px;
 }
